@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naslanalsatt-dot.github.io/tuvipu92/sitemap.xml
